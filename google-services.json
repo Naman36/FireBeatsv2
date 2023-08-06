@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1060220789771",
+    "project_id": "firebeats-c2fd8",
+    "storage_bucket": "firebeats-c2fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060220789771:android:0de16eeb831fa25f1c130e",
+        "android_client_info": {
+          "package_name": "com.snaman87.FireBeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060220789771-1h2pat0fbcqq7ojh9d1qbal0gqv3m0hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snaman87.FireBeats",
+            "certificate_hash": "b64af43d0c871e58566c5b1849741000ee5b978c"
+          }
+        },
+        {
+          "client_id": "1060220789771-pg06n5l9r28kbij6evivmavnf2g5u96o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snaman87.FireBeats",
+            "certificate_hash": "1d7e33dc292d852abefa37b3f0d0777d96ac23db"
+          }
+        },
+        {
+          "client_id": "1060220789771-0ujvf9m98c02t20dj51aug83bkrbnas0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9IinZkJsmeVFZvcW8jQvqD3dTWASvNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060220789771-0ujvf9m98c02t20dj51aug83bkrbnas0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
