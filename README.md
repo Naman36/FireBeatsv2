@@ -7,7 +7,8 @@ Backend(MongoDB + Node) for the application is available at -> https://github.co
   -> Create Products using API  
   -> WishList  
   -> Cart  
-        <img src="https://github.com/Naman36/FireBeatsv2/assets/49076224/a1273ae4-d1de-4a31-9b49-1c54a406b489" width="200" height="400" />
-        <img src="https://github.com/Naman36/FireBeatsv2/assets/49076224/58b24e24-f6d0-4d14-b261-7d7608adc0a0" width="200" height="400" />  
-        <img src="https://github.com/Naman36/FireBeatsv2/assets/49076224/f36b041e-2f31-4278-b962-00ac2c122385" width="200" height="400" />
-        <img src="https://github.com/Naman36/FireBeatsv2/assets/49076224/8a205a9f-7842-4c72-9664-6bdd6ed6e7b6" width="200" height="400" />
+![Firebeats_ss1](https://github.com/Naman36/FireBeatsv2/assets/49076224/95685f72-510d-4cd4-972f-61bb12574fd1)
+![Firebeats_ss2](https://github.com/Naman36/FireBeatsv2/assets/49076224/b73bd8ac-e68b-4b33-b27d-27d3e1491317)
+![Firebeats_ss3](https://github.com/Naman36/FireBeatsv2/assets/49076224/e7f5b8f4-b982-45ae-aa5d-abf3655c20d7)
+![Firebeats_ss4](https://github.com/Naman36/FireBeatsv2/assets/49076224/d07fd645-5ee9-48aa-a1de-6318f6e451f1)
+
